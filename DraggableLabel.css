@@ -1,0 +1,10 @@
+/* src/components/DraggableLabel.css */
+.draggable-label {
+    padding: 5px 10px;
+    border: 1px solid #888;
+    border-radius: 4px;
+    margin-bottom: 5px;
+    background-color: #eee;
+    cursor: grab;
+  }
+  
